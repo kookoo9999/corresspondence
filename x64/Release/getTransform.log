@@ -1,0 +1,80 @@
+﻿  testMain.cpp
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(96): warning C4244: '인수': 'arma::uword'에서 'const double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(239): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(240): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(244): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(245): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(275): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(276): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(366): warning C4244: '초기화 중': 'const arma::uword'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(367): warning C4244: '초기화 중': 'const arma::uword'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(408): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(408): warning C4244: '초기화 중': 'eT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(409): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(409): warning C4244: '초기화 중': 'eT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(410): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(410): warning C4244: '초기화 중': 'eT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(411): warning C4244: '인수': 'eT'에서 'const arma::uword'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+c:\users\user\source\repos\gettransform\gettransform\getcorresspondence.h(411): warning C4244: '초기화 중': 'eT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              eT=double
+          ]
+  코드를 생성하고 있습니다.
+  17 of 1828 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    88 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  getTransform.vcxproj -> C:\Users\user\source\repos\getTransform\x64\Release\getTransform.exe
